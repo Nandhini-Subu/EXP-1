@@ -75,10 +75,14 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
+<img width="810" height="319" alt="image" src="https://github.com/user-attachments/assets/c599f0bb-479a-4bf5-b084-89835d3d3781" />
+
  
 
 
 b.  KCL:
+<img width="810" height="357" alt="image" src="https://github.com/user-attachments/assets/0f5ac985-f544-4068-908e-0c085c66f415" />
+
 
 
 
